@@ -1,0 +1,16 @@
+[VisualHamOFileListV1]
+main.c
+cosLUT.c
+dma.c
+sinLUT.c
+sprites.c
+affine.c
+splash.c
+tutorialBG.c
+fontTiles.c
+font.c
+textMap.c
+reggaeLoop.c
+tutorialBGM.c
+tutorial.c
+city.c
