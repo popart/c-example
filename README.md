@@ -1,6 +1,6 @@
-c-example
+Floating Point
 =========
 
-Source code from a Gameboy Advance game written in C (school project).
+Gameboy Advance game
 
 Code is in tutorial.c and main.c.
